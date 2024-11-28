@@ -1,2 +1,4 @@
 Linha 1: Olá Mundo
+
 Linha 2: Alteração no Branch B
+
